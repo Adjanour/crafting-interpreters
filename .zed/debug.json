@@ -1,0 +1,10 @@
+[
+  {
+    "adapter": "Java",
+    "request": "launch",
+    "label": "Run Lox (via JDTLS)",
+    "mainClass": "com.craftinginterpreters.lox.Lox",
+    "stopOnEntry": false,
+    "cwd": "${ZED_WORKTREE_ROOT}/java"
+  }
+]
